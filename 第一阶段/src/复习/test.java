@@ -14,7 +14,7 @@ public class test {
 			ArrayList<String> arr=new ArrayList<String>();
 			arr.add("a");
 			arr.add("b");
-			arr.add("ccc");
+			arr.add("ccd");
 			arr.forEach(System.out::println);
 		
 	}
