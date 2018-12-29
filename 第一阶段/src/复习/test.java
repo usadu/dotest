@@ -5,7 +5,7 @@
  * @author Administrator
  *
  */
-package ��ϰ;
+package ¸´Ï°;
 
 import java.util.ArrayList;
 
@@ -14,7 +14,7 @@ public class test {
 			ArrayList<String> arr=new ArrayList<String>();
 			arr.add("a");
 			arr.add("b");
-			arr.add("cba");
+			arr.add("cca");
 			arr.forEach(System.out::println);
 		
 	}
